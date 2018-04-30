@@ -1,0 +1,6 @@
+framework module Pods_ProjectTDUITests {
+  umbrella header "Pods-ProjectTDUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
